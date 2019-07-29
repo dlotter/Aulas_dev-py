@@ -1,7 +1,8 @@
+
+
 class q1():
     def solucao(self):
         print("""Solução: Lembre-se que o return causa a saída da função imediatamente.
-
 
 def divisivel_por_sete(nums):
     for num in nums:
