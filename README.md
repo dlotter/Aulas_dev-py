@@ -3,4 +3,4 @@ This repo holds the notebooks and slides used in the FEA.dev basic python lectur
 
 All the material is in Portuguese.
 
-You can learn more about this project at instagram.com/fea.dev
+You can learn more about this project at [instagram.com/fea.dev](https://www.instagram.com/fea.dev/)
