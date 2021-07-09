@@ -1,5 +1,5 @@
 # aulas_dev-py
-This repo holds the notebooks and slides used in the FEA.dev basic python lectures that I taught.
+This repo holds the notebooks and slides used in the FEA.dev basic python classes that I taught with [msallum](https://github.com/msallum).
 
 All the material is in Portuguese.
 
